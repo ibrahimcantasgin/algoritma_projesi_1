@@ -1,0 +1,11 @@
+Balık 350
+Börek 300
+Hamburger 240
+Makarna 350
+Kabak 70
+Patates 200
+Pilav 300
+Tatlı 400
+Türlü 200
+Ayran 70
+Kola 110 

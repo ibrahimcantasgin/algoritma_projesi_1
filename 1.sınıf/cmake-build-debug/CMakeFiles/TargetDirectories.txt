@@ -1,0 +1,3 @@
+C:/Users/ibrah/CLionProjects/1.sınıf/cmake-build-debug/CMakeFiles/project.dir
+C:/Users/ibrah/CLionProjects/1.sınıf/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ibrah/CLionProjects/1.sınıf/cmake-build-debug/CMakeFiles/rebuild_cache.dir
